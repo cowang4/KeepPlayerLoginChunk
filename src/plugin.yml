@@ -1,0 +1,6 @@
+name: KeepPlayerLoginChunk
+main: io.github.cowang4.keepplayerloginchunk.KeepPlayerLoginChunk
+version: 0.1.0
+
+commands:
+  

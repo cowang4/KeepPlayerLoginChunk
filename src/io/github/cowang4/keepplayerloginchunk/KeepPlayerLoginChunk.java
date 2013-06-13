@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package keepplayerloginchunk;
+package io.github.cowang4.keepplayerloginchunk;
 
 /**
  *
@@ -10,6 +10,14 @@ package keepplayerloginchunk;
  */
 public class KeepPlayerLoginChunk {
 
+    @Override
+    public void onEnable()
+    {
+        
+    }
+    
+    @Over
+    
     /**
      * @param args the command line arguments
      */
